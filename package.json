@@ -1,0 +1,14 @@
+{
+  "name": "ethusd-feed-ea",
+  "version": "1.0.0",
+  "description": "A price feed External Adapter for Chainlink Nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
